@@ -1,5 +1,8 @@
 # FurnitureCombo
 ENSF409 Project + Hack Your Learning
+
+Authors: Ibrahim Asad, Brian Chen, Thessalonika Magadia, Vrund Patel
+
 1) Change directory one command line to root directory.
 
 2) Compile the code. You can type this into the command line:
